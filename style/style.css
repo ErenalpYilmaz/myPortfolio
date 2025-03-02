@@ -1,0 +1,40 @@
+
+
+#main{
+  background-color:#e4eaf5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#skills{
+  height: 100vh;
+}
+#contact{
+  height: 80vh;  
+}
+#footer{
+  background-color: #78f5c6;
+}
+body{
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+  
+}
+.special-text{
+  font-size:24px;
+  font-size:3rem;
+  color:#78f5c6;
+}
+.sub-title{
+  font: size 16px;
+  font-size: 1.5rem;
+  font-weight: 400;
+  font-style: italic;
+  color:#78f5c6;
+}
+
+.icons a{
+  margin-right: 3%;
+}
